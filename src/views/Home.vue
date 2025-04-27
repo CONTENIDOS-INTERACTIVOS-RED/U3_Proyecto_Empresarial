@@ -22,7 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 El liderazgo ético y la responsabilidad social empresarial (RSE) son esenciales en el entorno empresarial actual, ya que fortalecen la confianza, la reputación y la sostenibilidad a largo plazo. Empresas como Tesla y Patagonia han demostrado que la ética y la innovación generan ventaja competitiva. La RSE mejora la fidelización de clientes, la atracción de talento y la adaptación a regulaciones. Además, impulsa la rentabilidad mediante la reducción de costos, la diferenciación de marca y el acceso a nuevos mercados, asegurando un impacto positivo en la sociedad y el medio ambiente.
+              p.descripcion.mb-4 La unidad 3, se centra en la evaluación del impacto y la mejora continua de los proyectos empresariales. Se abordan herramientas para medir los efectos en dimensiones social, económica y ambiental, como indicadores de desempeño y análisis costo-beneficio. Además, se destacan estrategias de gestión ética y sostenible, incluyendo economía circular y eficiencia energética. La evaluación del impacto permite tomar decisiones basadas en datos, optimizar procesos y garantizar la sostenibilidad de las iniciativas empresariales en un entorno dinámico.
               
 
               .button-container.mt-auto
