@@ -1,7 +1,8 @@
 export default {
   global: {
     numeroUnidad: '3',
-    tituloUnidad: 'Gestión de proyectos empresariales innovadores y sostenibles',
+    tituloUnidad:
+      'Gestión de proyectos empresariales innovadores y sostenibles',
   },
   menuPrincipal: {
     menu: [
