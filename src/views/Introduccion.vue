@@ -23,17 +23,17 @@
 
     .row.align-items-stretch.mb-5
       .col-lg-4
-        .bg-color-2.p-4
+        .bg-color-2.p-4.h-100
           h4 01
           p.mb-0 Analizar y evaluar los resultados de proyectos.
 
       .col-lg-4
-        .bg-color-2.p-4
+        .bg-color-2.p-4.h-100
           h4 02
           p.mb-0 Diseñar estrategias de mejora.
 
       .col-lg-4
-        .bg-color-2.p-4
+        .bg-color-2.p-4.h-100
           h4 03
           p.mb-0 Comprender el impacto de la evaluación en la toma de decisiones organizacionales.
 
