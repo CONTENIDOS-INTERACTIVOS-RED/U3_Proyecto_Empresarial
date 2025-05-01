@@ -295,8 +295,8 @@
         .col-lg-8
           
           LineaTiempoD.color-primario.large(data-aos="fade-right")
-            p(numero="1" titulo="Título paso 1") Contenido paso 1
-            p(numero="2" titulo="Título paso 2") Contenido paso 2
+            p(numero="1" titulo="Ejemplo de aplicación") En una empresa que implementa un programa de responsabilidad social empresarial para el acceso al agua potable en comunidades vulnerables, la matriz de impacto social puede evaluar cómo el acceso al agua ha mejorado la salud y la calidad de vida de los habitantes.
+            p(numero="2" titulo="Caso de éxito") #[strong Nestlé] y su programa #[strong "Agua limpia para las escuelas"] Nestlé ha desarrollado programas de acceso a agua potable en comunidades rurales. Mediante una matriz de impacto social, la empresa ha podido evaluar mejoras en la salud infantil y en la reducción de enfermedades causadas por el consumo de agua contaminada.
       
 
       h2 Indicadores de desarrollo humano
@@ -453,7 +453,7 @@
           .row
             .col-md-6.col-lg-7.col-xl-7.mb-4.mb-md-0.order-2
               h4 Caso de éxito
-              p Apple y su estrategia de ciclo de vida Apple ha implementado el ACV en sus productos para minimizar el impacto ambiental. Ha reducido la cantidad de aluminio y plástico en la fabricación de sus dispositivos y ha incrementado el uso de materiales reciclados en sus productos.
+              p #[strong Apple] y su estrategia de ciclo de vida Apple ha implementado el ACV en sus productos para minimizar el impacto ambiental. Ha reducido la cantidad de aluminio y plástico en la fabricación de sus dispositivos y ha incrementado el uso de materiales reciclados en sus productos.
             .col-md-6.col-lg-5.col-xl-5.order-1
               figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/tab-2.png', alt='')
@@ -468,7 +468,7 @@
       
           LineaTiempoD.color-primario.large(data-aos="fade-right")
             p(numero="1" titulo="Ejemplo de aplicación") Una aerolínea puede calcular su huella de carbono analizando el consumo de combustible de su flota de aviones y estableciendo estrategias para reducir emisiones, como la modernización de aeronaves y la inversión en combustibles sostenibles.
-            p(numero="2" titulo="Caso de éxito") Google y su programa Carbon Neutral Google ha logrado ser una empresa carbono neutral mediante la compensación de sus emisiones de CO₂ con inversiones en energías renovables y la reducción del uso de combustibles fósiles en sus centros de datos.
+            p(numero="2" titulo="Caso de éxito") #[strong Google] y su programa #[strong Carbon Neutral] Google ha logrado ser una empresa carbono neutral mediante la compensación de sus emisiones de CO₂ con inversiones en energías renovables y la reducción del uso de combustibles fósiles en sus centros de datos.
         .col-lg-4
           figure
             img(src="@/assets/curso/tema2/27.png", alt="", data-aos="zoom-in").mb-4.mb-lg-0
@@ -649,13 +649,17 @@
               h2.mb-4(data-aos="flip-up") Buenas Prácticas en la Gestión Empresarial Ética y Sostenible
               p.mb-4(data-aos="fade-right") Los invitamos a leer Buenas Prácticas en la Gestión Empresarial Ética y Sostenible, un análisis detallado sobre la importancia de integrar estrategias responsables en la administración de empresas. En este documento, se abordan aspectos clave como la transparencia en la toma de decisiones, la responsabilidad corporativa y la implementación de la economía circular. 6
       
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank" rel="noopener noreferrer")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
                   p <strong>Ver Anexo. </strong> 
       
 
+      .bg-full-width.border-top.actividad.bg-color-actividad
+        .p-4.p-md-5
+          #Actividad                
+            <Actividad :cuestionario="cuestionario"/>
       .bg-full-width.border-top.color-primario
         .p-4.p-md-5
           h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
@@ -665,15 +669,15 @@
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/198483" target="_blank" rel="noopener noreferrer") Rodríguez, G. A. (Il.) & Muñoz Ávila, L. (2021). Gestión ambiental empresarial: ( ed.). Editorial Universidad del Rosario. 
   
               p.d-flex.my-4
-                img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-                span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/218102" target="_blank" rel="noopener noreferrer") Cordovés Torres Gómez de Cádiz, D. C. (Il.). (2022). Dirección Empresarial: Sistemas de Gestión e Innovación: (1 ed.). Editorial Universitaria.
   
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+                a(href="https://www.youtube.com/watch?v=loz-R4Hd9As" target="_blank" rel="noopener noreferrer") Facultad de Estudios a Distancia UMNG. (2021, 11 de Agosto). Comprensión del entorno económico de la empresa.
   
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
@@ -682,8 +686,185 @@
   </template>
 
 <script>
+import Actividad from '@/components/actividad/Actividad.vue'
 export default {
-  name: 'Tema2',
+  name: 'Tema3',
+  components: {
+    Actividad,
+  },
+  data() {
+    return {
+      cuestionario: {
+        tema: 'Evaluación del impacto de los proyectos',
+        titulo: 'Ponte a prueba',
+        introduccion:
+          'Demuestra lo que aprendiste en esta unidad y pon a prueba tus conocimientos.',
+        barajarPreguntas: true,
+        preguntas: [
+          {
+            id: 1,
+            texto:
+              '¿Cuál de los siguientes factores es clave para el éxito de un emprendedor?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Falta de planificación estratégica',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Conocimiento del mercado y adaptación al cambio',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Resistencia a nuevas ideas',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Desconocimiento de la competencia',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 2,
+            texto:
+              'En el modelo Canvas, ¿qué componente describe las maneras en que una empresa se comunica y entrega valor a sus clientes?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Propuesta de valor',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Segmentos de clientes',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto: 'Canales',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto: 'Fuentes de ingresos',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 3,
+            texto:
+              '¿Qué elemento del contexto emprendedor puede influir en el éxito de un negocio?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Regulaciones gubernamentales y políticas económicas',
+                esCorrecta: true,
+              },
+              {
+                id: 'b',
+                texto: 'La suerte del emprendedor',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto: 'El tiempo libre disponible del emprendedor',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'La cantidad de empleados contratados',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 4,
+            texto: 'La creación de valor en un emprendimiento se basa en:',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'Copiar productos exitosos sin modificaciones',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Reducir costos sin importar la calidad',
+                esCorrecta: false,
+              },
+              {
+                id: 'c',
+                texto:
+                  'Satisfacer una necesidad del mercado de manera innovadora',
+                esCorrecta: true,
+              },
+              {
+                id: 'd',
+                texto:
+                  'Invertir en publicidad sin considerar la calidad del producto',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+          {
+            id: 5,
+            texto:
+              '¿Cuál es un aspecto clave de la gestión financiera en un emprendimiento?',
+            imagen: '',
+            barajarRespuestas: true,
+            opciones: [
+              {
+                id: 'a',
+                texto: 'No llevar registro de ingresos y egresos',
+                esCorrecta: false,
+              },
+              {
+                id: 'b',
+                texto: 'Reinvertir estratégicamente las ganancias',
+                esCorrecta: true,
+              },
+              {
+                id: 'c',
+                texto: 'Gastar sin medir los costos',
+                esCorrecta: false,
+              },
+              {
+                id: 'd',
+                texto: 'Evitar fuentes de financiamiento externas',
+                esCorrecta: false,
+              },
+            ],
+            mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+            mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          },
+        ],
+        mensaje_final_aprobado:
+          '¡Felicidades! Has superado la prueba con éxito.',
+        mensaje_final_reprobado:
+          'Te recomendamos repasar nuevamente la unidad para reforzar los conceptos clave antes de volver a intentarlo.',
+      },
+    }
+  },
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
@@ -693,6 +874,9 @@ export default {
 </script>
 
 <style lang="sass">
+.bg-color-actividad
+  background-color: #EBF1F5
+
 .image-out-bg
   position: relative
   &::after

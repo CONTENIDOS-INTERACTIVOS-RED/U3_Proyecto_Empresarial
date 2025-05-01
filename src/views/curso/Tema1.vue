@@ -40,19 +40,19 @@
       .p-4.p-md-5
         SlyderA(tipo="b").bg-white
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-lg-2
+            .col-lg-5
               figure
                 img(src="@/assets/curso/tema1/slide-1.png")
-            .col-lg-7.order-lg-1
-              h5 Título del slide 1
-              p Contenido del slide 1
+            .col-lg-7
+              h4 Evaluación del impacto
+              p Mide los efectos de un proyecto en la organización, la comunidad, el medio ambiente y la economía. Busca determinar si los resultados están alineados con los objetivos planteados y qué valor agregado ha generado la acción implementada.
           .row.align-items-center.p-4.p-md-5
-            .col-lg-5.order-lg-2
+            .col-lg-5
               figure
                 img(src="@/assets/curso/tema1/slide-2.png")
-            .col-lg-7.order-lg-1
-              h5 Título del slide 2
-              p Contenido del slide 2
+            .col-lg-7
+              h4 Mejora continua
+              p Optimiza el desempeño de un proyecto de manera constante, basándose en el aprendizaje obtenido de la evaluación del impacto y en la identificación de oportunidades de mejora progresiva.
 
 
     p Las características de la evaluación del impacto son: 
@@ -157,15 +157,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") Gaviria Mahecha, R. A. Guardiola Esmeral, A. R. & Ríos Giraldo, A. L. D. L. (2023). Sectores económicos en Colombia y su impacto en el comercio internacional: (1 ed.). Fondo Editorial Universidad Cooperativa de Colombia. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=WeFoumD6Fpc" target="_blank" rel="noopener noreferrer") Mundo Empresarial. (2020, 10 de septiembre). ¿De qué depende el crecimiento económico de un país?
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
