@@ -142,7 +142,7 @@
             .col-lg
               .pt-5.pb-4
                 p #[strong Ejemplo]
-                p.mb-0 Una empresa que implementa una política de reducción de desperdicios en su cadena de producción necesita medir su efectividad. A través de herramientas como el Análisis de Ciclo de Vida (ACV), puede evaluar la reducción real de residuos y ajustar su estrategia para maximizar los resultados. 
+                p.mb-0 Tesla mide constantemente el impacto de sus autos eléctricos en términos de reducción de emisiones de carbono. Con base en estos datos, la empresa ha innovado en baterías más eficientes y sistemas de recarga rápida.
 
             .col-lg-auto
               img(src="@/assets/curso/tema2/12.svg", style="max-width: 400px").mx-auto
@@ -178,7 +178,7 @@
             p.mb-4 #[strong Ejemplo]
             p.mb-0 Nestlé ha implementado evaluaciones de impacto en toda su cadena de suministro para garantizar que sus proveedores cumplan con normativas ambientales y de comercio justo.
           .bg-color-6.p-4
-            p.mb-0 Las herramientas de evaluación de impacto son esenciales para la toma de decisiones, sostenibilidad y mejora continua en la gestión de proyectos. Sin ellas, las empresas pueden perder claridad sobre sus efectos en el entorno, afectando su competitividad y credibilidad. Implementarlas permite optimizar la gestión y asegurar un impacto positivo y sostenible.  6
+            p.mb-0 Las herramientas de evaluación de impacto son esenciales para la toma de decisiones, sostenibilidad y mejora continua en la gestión de proyectos. Sin ellas, las empresas pueden perder claridad sobre sus efectos en el entorno, afectando su competitividad y credibilidad. Implementarlas permite optimizar la gestión y asegurar un impacto positivo y sostenible.  
 
 
 
@@ -193,7 +193,7 @@
               .col-lg-auto
                 img(src="@/assets/curso/tema2/14.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 El impacto social se refiere a los cambios generados en la comunidad y en las personas a partir de la ejecución de un proyecto. Evaluar este impacto permite conocer si una iniciativa está contribuyendo a mejorar la calidad de vida, promover la equidad o reducir brechas sociales. Es clave para determinar si los recursos invertidos realmente están generando beneficios tangibles y sostenibles en la sociedad. 1
+                p.mb-0 El impacto social se refiere a los cambios generados en la comunidad y en las personas a partir de la ejecución de un proyecto. Evaluar este impacto permite conocer si una iniciativa está contribuyendo a mejorar la calidad de vida, promover la equidad o reducir brechas sociales. Es clave para determinar si los recursos invertidos realmente están generando beneficios tangibles y sostenibles en la sociedad. 
       
           h3.mb-4 Importancia de evaluar el impacto social
       
@@ -390,7 +390,7 @@
               .col-lg-auto
                 img(src="@/assets/curso/tema2/21.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Identificar oportunidades para reducir la contaminación y el consumo de recursos.1
+                p.mb-0 Identificar oportunidades para reducir la contaminación y el consumo de recursos.
       
         .col-lg-4
           .bg-color-1.p-4(data-aos="fade-left").h-100
@@ -416,7 +416,7 @@
               .col-lg-auto
                 img(src="@/assets/curso/tema2/24.svg", style="max-width: 90px").mx-auto
               .col-lg
-                p.mb-0 Identificar oportunidades para reducir la contaminación y el consumo de recursos.1
+                p.mb-0 Identificar oportunidades para reducir la contaminación y el consumo de recursos.
       
         .col-lg-8
           .bg-color-1.p-4(data-aos="fade-left").h-100
@@ -501,7 +501,7 @@
         .row.justify-content-center.align-items-center
           .col-lg
             .p-4
-              p.mb-0(data-aos="fade-up") Evaluar el impacto ambiental es fundamental para el desarrollo sostenible de cualquier organización. Herramientas como el Análisis del Ciclo de Vida, los indicadores de huella de carbono y la implementación de normativas ISO 14001 permiten a las empresas minimizar su impacto ecológico y contribuir a la preservación del medio ambiente. Aplicar estas metodologías en el sector real ayuda a cumplir con normativas ambientales, mejorar la eficiencia operativa y fortalecer la confianza de los consumidores en la responsabilidad ambiental de la empresa. 5
+              p.mb-0(data-aos="fade-up") Evaluar el impacto ambiental es fundamental para el desarrollo sostenible de cualquier organización. Herramientas como el Análisis del Ciclo de Vida, los indicadores de huella de carbono y la implementación de normativas ISO 14001 permiten a las empresas minimizar su impacto ecológico y contribuir a la preservación del medio ambiente. Aplicar estas metodologías en el sector real ayuda a cumplir con normativas ambientales, mejorar la eficiencia operativa y fortalecer la confianza de los consumidores en la responsabilidad ambiental de la empresa. 
           .col-lg-auto
             figure
               img(src='@/assets/curso/tema2/29.svg', alt='')
@@ -630,7 +630,7 @@
 
             .col-lg
               .py-4
-                p.text-white Medir el impacto económico es esencial para garantizar la sostenibilidad y el crecimiento de un proyecto. Herramientas como el Análisis Costo-Beneficio, el Retorno de Inversión (ROI) y los Indicadores de Productividad y Eficiencia permiten tomar decisiones financieras informadas y asegurar que los recursos se usen de manera óptima. En el mundo laboral, estas metodologías ayudarán a las empresas a evaluar su rentabilidad, optimizar costos y generar estrategias de crecimiento basadas en datos sólidos. 3
+                p.text-white Medir el impacto económico es esencial para garantizar la sostenibilidad y el crecimiento de un proyecto. Herramientas como el Análisis Costo-Beneficio, el Retorno de Inversión (ROI) y los Indicadores de Productividad y Eficiencia permiten tomar decisiones financieras informadas y asegurar que los recursos se usen de manera óptima. En el mundo laboral, estas metodologías ayudarán a las empresas a evaluar su rentabilidad, optimizar costos y generar estrategias de crecimiento basadas en datos sólidos. 
         
             .col-lg-auto
               img(src="@/assets/curso/tema2/36.svg", style="max-width: 400px").mx-auto
@@ -647,7 +647,7 @@
       
             .col-lg-8
               h2.mb-4(data-aos="flip-up") Buenas Prácticas en la Gestión Empresarial Ética y Sostenible
-              p.mb-4(data-aos="fade-right") Los invitamos a leer Buenas Prácticas en la Gestión Empresarial Ética y Sostenible, un análisis detallado sobre la importancia de integrar estrategias responsables en la administración de empresas. En este documento, se abordan aspectos clave como la transparencia en la toma de decisiones, la responsabilidad corporativa y la implementación de la economía circular. 6
+              p.mb-4(data-aos="fade-right") Los invitamos a leer Buenas Prácticas en la Gestión Empresarial Ética y Sostenible, un análisis detallado sobre la importancia de integrar estrategias responsables en la administración de empresas. En este documento, se abordan aspectos clave como la transparencia en la toma de decisiones, la responsabilidad corporativa y la implementación de la economía circular. 
       
               a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank" rel="noopener noreferrer")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
@@ -660,6 +660,7 @@
         .p-4.p-md-5
           #Actividad                
             <Actividad :cuestionario="cuestionario"/>
+            
       .bg-full-width.border-top.color-primario
         .p-4.p-md-5
           h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
@@ -704,28 +705,28 @@ export default {
           {
             id: 1,
             texto:
-              '¿Cuál de los siguientes factores es clave para el éxito de un emprendedor?',
+              '¿Qué herramienta es utilizada comúnmente para medir el impacto social de un proyecto?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Falta de planificación estratégica',
+                texto: 'Indicadores de Sostenibilidad Empresarial (ISE)',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Conocimiento del mercado y adaptación al cambio',
-                esCorrecta: true,
-              },
-              {
-                id: 'c',
-                texto: 'Resistencia a nuevas ideas',
+                texto: 'Análisis de Ciclo de Vida (ACV)',
                 esCorrecta: false,
               },
               {
+                id: 'c',
+                texto: 'Sistema de Indicadores de Impacto Social (SIIS)',
+                esCorrecta: true,
+              },
+              {
                 id: 'd',
-                texto: 'Desconocimiento de la competencia',
+                texto: 'Auditoría Financiera',
                 esCorrecta: false,
               },
             ],
@@ -735,28 +736,28 @@ export default {
           {
             id: 2,
             texto:
-              'En el modelo Canvas, ¿qué componente describe las maneras en que una empresa se comunica y entrega valor a sus clientes?',
+              '¿Cuál de los siguientes métodos se utiliza para evaluar el impacto ambiental de un emprendimiento?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Propuesta de valor',
-                esCorrecta: false,
+                texto: 'Análisis de Ciclo de Vida (ACV)',
+                esCorrecta: true,
               },
               {
                 id: 'b',
-                texto: 'Segmentos de clientes',
+                texto: 'Encuestas de satisfacción del cliente',
                 esCorrecta: false,
               },
               {
                 id: 'c',
-                texto: 'Canales',
-                esCorrecta: true,
+                texto: 'Evaluación de desempeño financiero',
+                esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Fuentes de ingresos',
+                texto: 'Matriz FODA',
                 esCorrecta: false,
               },
             ],
@@ -766,28 +767,28 @@ export default {
           {
             id: 3,
             texto:
-              '¿Qué elemento del contexto emprendedor puede influir en el éxito de un negocio?',
+              '¿Qué indicador se emplea para medir el impacto económico de un proyecto?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Regulaciones gubernamentales y políticas económicas',
+                texto: 'Retorno sobre la Inversión (ROI)',
                 esCorrecta: true,
               },
               {
                 id: 'b',
-                texto: 'La suerte del emprendedor',
+                texto: 'Índice de Percepción Ciudadana',
                 esCorrecta: false,
               },
               {
                 id: 'c',
-                texto: 'El tiempo libre disponible del emprendedor',
+                texto: 'Huella de Carbono',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'La cantidad de empleados contratados',
+                texto: 'Nivel de satisfacción de empleados',
                 esCorrecta: false,
               },
             ],
@@ -796,30 +797,30 @@ export default {
           },
           {
             id: 4,
-            texto: 'La creación de valor en un emprendimiento se basa en:',
+            texto:
+              '¿Cuál de las siguientes es una práctica ética en la gestión empresarial?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'Copiar productos exitosos sin modificaciones',
+                texto: 'Ocultar información financiera a los inversionistas',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reducir costos sin importar la calidad',
-                esCorrecta: false,
+                texto: 'Garantizar condiciones laborales justas y equitativas',
+                esCorrecta: true,
               },
               {
                 id: 'c',
                 texto:
-                  'Satisfacer una necesidad del mercado de manera innovadora',
-                esCorrecta: true,
+                  'Aumentar precios sin justificación para maximizar ganancias',
+                esCorrecta: false,
               },
               {
                 id: 'd',
-                texto:
-                  'Invertir en publicidad sin considerar la calidad del producto',
+                texto: 'Evadir impuestos mediante estrategias contables',
                 esCorrecta: false,
               },
             ],
@@ -829,28 +830,31 @@ export default {
           {
             id: 5,
             texto:
-              '¿Cuál es un aspecto clave de la gestión financiera en un emprendimiento?',
+              '¿Cuál es un principio clave de la sostenibilidad empresarial?',
             imagen: '',
             barajarRespuestas: true,
             opciones: [
               {
                 id: 'a',
-                texto: 'No llevar registro de ingresos y egresos',
+                texto:
+                  'Maximizar ganancias sin considerar impactos ambientales',
                 esCorrecta: false,
               },
               {
                 id: 'b',
-                texto: 'Reinvertir estratégicamente las ganancias',
+                texto:
+                  'Adoptar procesos eficientes que minimicen el desperdicio',
                 esCorrecta: true,
               },
               {
                 id: 'c',
-                texto: 'Gastar sin medir los costos',
+                texto: 'Evitar la innovación para reducir costos',
                 esCorrecta: false,
               },
               {
                 id: 'd',
-                texto: 'Evitar fuentes de financiamiento externas',
+                texto:
+                  'Limitar el crecimiento de la empresa para evitar riesgos',
                 esCorrecta: false,
               },
             ],

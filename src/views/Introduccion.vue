@@ -25,20 +25,17 @@
       .col-lg-4
         .bg-color-2.p-4.h-100
           h4 01
-          p.mb-0 Analizar y evaluar los resultados de proyectos.
+          p.mb-0 Analizar y evaluar los resultados de un proyecto mediante métricas e indicadores de rendimiento.
 
       .col-lg-4
         .bg-color-2.p-4.h-100
           h4 02
-          p.mb-0 Diseñar estrategias de mejora.
+          p.mb-0 Diseñar propuestas concretas de mejora continua basadas en la evaluación del impacto.
 
       .col-lg-4
         .bg-color-2.p-4.h-100
           h4 03
-          p.mb-0 Comprender el impacto de la evaluación en la toma de decisiones organizacionales.
-
-
-
+          p.mb-0 Comprender cómo la evaluación de impacto influye en la toma de decisiones y en la cultura organizacional.
     
 
 </template>

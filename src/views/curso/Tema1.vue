@@ -96,7 +96,7 @@
             p(data-aos="fade-left").mb-4.text-white Para estudiar la temática, lo invitamos a escuchar el siguiente podcast.
             
             TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
-              texto="Concepto de riesgo país"
+              texto="Mejora continua: clave para la evolución empresarial"
               tiempo
               :audio="require('../../assets/curso/podcast/podcast1.mp3')"
             )
